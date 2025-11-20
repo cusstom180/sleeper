@@ -1,0 +1,5 @@
+I want to call google and get a workout plan for weightlifting based my past workouts.
+    - get past workouts
+    - add that as a tool call
+    - get response
+    - save response
